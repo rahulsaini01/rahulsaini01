@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack  developer</h3>
 <img align="right" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulsaini01&label=Profile%20views&color=0e75b6&style=flat" alt="rahulsaini01" /> </p>
+<p align="left"> <img src="https://www.bing.com/images/search?view=detailV2&ccid=kIacWWXj&id=C5A53D265E7BE46F168C53F1FA9466ED938A46A5&thid=OIP.kIacWWXjfYBFXqIXhIuCXQHaFj&mediaurl=https%3a%2f%2fcodebulletin.github.io%2fMyPortfolio%2fassets%2fgif%2fcoding.3272fa9c861c718b769a..gif&exph=600&expw=800&q=coder+gif&simid=607986723648122247&FORM=IRPRST&ck=4C0B6484DBBF2FBCA4E40038AC048493&selectedIndex=21&itb=0" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://rahulsaini01.github.io/portfolio/](https://rahulsaini01.github.io/portfolio/)
 
