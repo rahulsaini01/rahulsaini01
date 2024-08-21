@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rahul Saini</h1>
 <h3 align="center">A passionate full stack  developer</h3>
-<img align="right" width="400" src="![image](https://github.com/user-attachments/assets/796cf652-7348-4931-bf89-8054a2c2eefc)
-" alt="coding">
+<img align="right" width="400" src="https://www.bing.com/th/id/OGC.81178b47a8598f0c81c4799f2cdd4057?pid=1.7&rurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f2131993%2fscreenshots%2f4948736%2fthoughtworks-gif_dribbble.gif&ehk=NNfOMQ6dfiA3eWWZAhI73QT3tX1lMjqFSSH4bXYrTAo%3d" alt="coding">
 
 <p align="left"> <img src="https://www.bing.com/images/search?view=detailV2&ccid=kIacWWXj&id=C5A53D265E7BE46F168C53F1FA9466ED938A46A5&thid=OIP.kIacWWXjfYBFXqIXhIuCXQHaFj&mediaurl=https%3a%2f%2fcodebulletin.github.io%2fMyPortfolio%2fassets%2fgif%2fcoding.3272fa9c861c718b769a..gif&exph=600&expw=800&q=coder+gif&simid=607986723648122247&FORM=IRPRST&ck=4C0B6484DBBF2FBCA4E40038AC048493&selectedIndex=21&itb=0" /> </p>
 
